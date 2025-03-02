@@ -6,4 +6,4 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
     - <b>Phishing URL Detection</b>
-  - [Praciting DS & Algos in Python](https://github.com/zekanyjozsef/Phishing-Detection)
+  - [Phishing URL Detection](https://github.com/zekanyjozsef/Phishing-Detection)
