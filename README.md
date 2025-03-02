@@ -4,6 +4,7 @@
 <br>
 [🔒 Cybersecurity Projects](https://github.com/Negative0negit#-cybersecurity-projects)
 <br>
+<br>
 <a href="https://www.linkedin.com/in/jozsef-zekany-34306b350" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30"/>
 </a>
