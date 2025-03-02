@@ -4,6 +4,4 @@
 
 -<b>[Google Cybersecurity Certificate](https://www.credly.com/badges/994b9bdc-e9e9-47bf-9fc4-d027c5b29855/public_url)<b>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
-    - <b>Phishing URL Detection</b>
   - [Phishing URL Detection](https://github.com/zekanyjozsef/Phishing-Detection)
