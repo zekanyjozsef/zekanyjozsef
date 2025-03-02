@@ -2,7 +2,7 @@
 ## Certifications :
 [Google Cybersecurity Certificate](https://www.credly.com/badges/994b9bdc-e9e9-47bf-9fc4-d027c5b29855/public_url) <br>
 <br>
-[🔒 Cybersecurity Projects](https://github.com/Negative0negit#-cybersecurity-projects)
+[🔒 Cybersecurity Projects]()
 <br>
 <br>
 <a href="https://www.linkedin.com/in/jozsef-zekany-34306b350" target="_blank">
