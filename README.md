@@ -8,3 +8,5 @@
 
 - <b></b>
   - [Phishing URL Detection](https://github.com/zekanyjozsef/Phishing-Detection)
+  - [Employee Attendance Monitoring and Access Control](https://github.com/zekanyjozsef/Employee-Attendance-Monitoring-and-Access-Control)
+
